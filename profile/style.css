@@ -1,0 +1,15 @@
+body {
+    background-color: wheat;
+    opacity: 0.3;
+}
+h1 {
+    color: black;
+    text-align: center;
+    border:2px solid darkgoldenrod;
+}
+p{
+    font-size:medium;
+    color: black;
+    font-family: serif;
+}
+

@@ -1,0 +1,19 @@
+.box {
+    width: 150px;
+    height: 150px;
+    border-radius: 15px;
+    font-size: 24px;
+    background-color: aquamarine;
+}
+
+.container {
+    height: 90vh;
+    display: flex;
+    border: 2px solid black;
+    text-align: center;
+    column-gap: 2px;
+    row-gap: 2px;
+    flex-direction: column;
+    flex-wrap: wrap;
+
+}
